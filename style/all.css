@@ -1,0 +1,23 @@
+@font-face {
+  font-family: VP Pixel;
+  src: url("https://freefonts.powerbox1000.repl.co/font/vppixel.otf") format(opentype);
+}
+
+@font-face {
+  font-family: Liberation Sans;
+  src: url("https://freefonts.powerbox1000.repl.co/font/liberationsans.otf") format(opentype);
+}
+@font-face {
+  font-family: Syne Mono;
+  src: url("https://freefonts.powerbox1000.repl.co/font/synemono.otf") format(opentype);
+}
+
+@font-face {
+  font-family: Syne Tactile;
+  src: url("https://freefonts.powerbox1000.repl.co/font/synetactile.otf") format(opentype);
+}
+
+@font-face {
+  font-family: Itim;
+  src: url("https://freefonts.powerbox1000.repl.co/font/itim.otf") format(opentype);
+}

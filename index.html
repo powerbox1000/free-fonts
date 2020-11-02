@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Get free fonts for anything you need: webpages, powerpoints, documents, etc.">
+    <title>Freefonts BETA - free fonts for your webpage</title>
+    <link href="https://freefonts.powerbox1000.repl.co/style/all.css" rel="stylesheet" type="text/css">
+    <link href="https://freefonts.powerbox1000.repl.co/style/main.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body style="text-align:center">
+    <h1>Free Fonts BETA</h1>
+    <div role="form" id="formDiv">
+      <label for="fType">Font type: </label>
+      <select id="fType">
+        <option value="css">CSS</option>
+        <option value="font">TTF or OTF</option>
+      </select>
+      <br>
+      <label for="fName">Font name: <label>
+      <select id="fName">
+        <option value="vppixel">VP Pixel</option>
+        <option value="liberationsans">Liberation Sans</option>
+        <option value="itim">Itim</option>
+        <option value="synemono">Syne Mono</option>
+        <option value="synetactile">Syne Tactile</option>
+      </select><br>
+      <button onclick="previewFont()">Preview</button><button onclick="done()">Submit</button>
+    </div><br><br>
+    <div id="previewDiv">
+    </div>
+    <script src="https://freefonts.powerbox1000.repl.co/scripts/clipboard.min.js"></script>
+    <script src="https://freefonts.powerbox1000.repl.co/scripts/fontHandler.js"></script>
+    <br>
+    <hr>
+    <footer>
+      Free Fonts - to submit more .ttf, .otf, .woff, and .woff2, just <a href="submit">send it in</a>. To make our lives easier, please convert it to otf at <a href="https://convertio.co/">this site</a>, as otf is the smallest type.
+    </footer>
+  </body>
+</html>
