@@ -7,4 +7,8 @@ This is simple: just go to https://powerbox1000.github.io/free-fonts
 
 ## Bug reports
 
-Free Fonts is on beta and we would be happy if you reported any issues on github. 
+Free Fonts is on beta and we would be happy if you reported any issues on github.
+
+## Contribute
+
+Sending in fonts is our favorite way for contributes, but you can report bugs too.
