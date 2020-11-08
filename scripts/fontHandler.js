@@ -10,7 +10,7 @@ function previewFont(){
 }
 
 function done(){
-  var generated = "https://free-fonts.github.io/%1/%2".replace("%1",fontStyle.value).replace("%2",fontName.value);
+  var generated = "https://powerbox1000.github.io/free-fonts/%1/%2".replace("%1",fontStyle.value).replace("%2",fontName.value);
 if(fontStyle.value == "css"){
   try{
   var el = document.createElement("button");
